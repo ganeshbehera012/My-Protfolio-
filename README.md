@@ -4,12 +4,11 @@ This is still a work in progress <br>
 If you find any bugs you can report it to me.
 
 ![Capture](https://user-images.githubusercontent.com/99565432/171957070-2cb3c504-97f5-49c8-b43a-c9008e5c3336.PNG)
-![image](https://user-images.githubusercontent.com/94515208/165942865-287f6b17-dc70-4d20-938d-d5e89b1384fe.png)
-![image](https://user-images.githubusercontent.com/94515208/165942881-634398bf-e952-430e-acd8-520ada605418.png)
-![image](https://user-images.githubusercontent.com/94515208/165942894-6b3c8b87-3f3e-4468-9e3c-46caab6b679c.png)
-![image](https://user-images.githubusercontent.com/94515208/165942910-e66480cb-39e5-47f4-9e39-7ead8ae8eeaf.png)
-![image](https://user-images.githubusercontent.com/94515208/165942915-3730efec-63a2-441c-87e7-600844c5df4b.png)
-![image](https://user-images.githubusercontent.com/94515208/165942921-4462285e-a876-441e-8572-43416e3a69f5.png)
+![Capture2](https://user-images.githubusercontent.com/99565432/171957646-6900d101-6cc1-4368-b0b3-8d967e798fd5.PNG)
+![Capture3](https://user-images.githubusercontent.com/99565432/171957677-e42f0853-1aad-4115-b4c4-6383278b938e.PNG)
+![Capture4](https://user-images.githubusercontent.com/99565432/171957709-35ce9098-95cd-4ebc-bee7-cfa4629bae66.PNG)
+![Capture5](https://user-images.githubusercontent.com/99565432/171957733-29184a83-99ca-433a-b0e3-67ec401a5d64.PNG)
+
 
 
 ## Tools/Technologies Used
@@ -21,4 +20,5 @@ If you find any bugs you can report it to me.
 5) Styled Components
 6) Email JS
 
-https://soumyaranjan-portfolio.vercel.app/
+
+https://ganesh-portfolio-react.vercel.app/
