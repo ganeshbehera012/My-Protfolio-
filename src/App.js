@@ -44,7 +44,7 @@ function App() {
         </div>
         <div className="top_right mt" data-aos={"zoom-in-down"}>
           <Toproject
-            projectdata={"Max Fhasion Clone"}
+            projectdata={"Max Fashion Clone"}
             description={
               "Max Fashion is the largest fashion brand in the Middle East, North Africa, South East Asia & India. Features: Social Sign-in/Sign-up All products pages Slider at home page Filters on product page.Tech Stack: HTML | CSS | Javascript. Areas of responsibility: Built authentication and integrated it with the frontend Focus on functionality part Designed and developed user-friendly websites. A collaborative project built by a team of 4 executed in 4 days. Built with * HTML * CSS * Javascript * DOM"
             }
