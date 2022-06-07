@@ -53,7 +53,7 @@ function Navbar() {
             settoggle(!toggle);
           }}
         >
-          <a href="#tech">Tech stack</a>
+          <a href="#tech">Skills</a>
         </div>
         <div
           onClick={() => {
